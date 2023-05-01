@@ -9,7 +9,7 @@ int main(){
 //Vector Addition
     int vectorU[] = {1, -3};
     int vectorW[] = {-4, 7};
-    int additionVector[1]; 
+    int additionVector[2]; 
 
     printf("Practice #1: Addition of vectors\n");
     printf("<");
@@ -25,7 +25,7 @@ int main(){
 //Scalar Product
     double vectorA[] = {1.0, -3.0, 0.0};
     double vectorB[] = {-4.0, 7.0, 5.0};
-    double resultantVector[2];
+    double resultantVector[3];
     double scalarMultipleA = 5.0;
     double scalarMultipleB = 0.5;
 
